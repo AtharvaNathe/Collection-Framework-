@@ -50,7 +50,9 @@ System.out.println(cars);            // Print all elements
 System.out.println(cars.get(0));     // Access element by index
 cars.remove(1);                      // Remove by index
 
-🎯 Learning Outcomes
+
+
+##🎯 Learning Outcomes
 Understand the behavior of various collections
 
 Learn when to use which type of collection
@@ -59,5 +61,5 @@ Handle duplicates, nulls, sorting, and iteration
 
 Improve your coding and debugging skills in Java
 
-🧠 Author
+##🧠 Author
  Atharva Nathe
