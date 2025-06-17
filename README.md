@@ -37,6 +37,21 @@ Each class in the Collections Framework is covered with a dedicated `.java` file
 
 ---
 
+
+##🎯 Learning Outcomes
+Understand the behavior of various collections
+
+Learn when to use which type of collection
+
+Handle duplicates, nulls, sorting, and iteration
+
+Improve your coding and debugging skills in Java
+
+##🧠 Author
+ Atharva Nathe
+
+
+
 ## 📘 Example – ArrayList
 
 ```java
@@ -52,14 +67,4 @@ cars.remove(1);                      // Remove by index
 
 
 
-##🎯 Learning Outcomes
-Understand the behavior of various collections
 
-Learn when to use which type of collection
-
-Handle duplicates, nulls, sorting, and iteration
-
-Improve your coding and debugging skills in Java
-
-##🧠 Author
- Atharva Nathe
