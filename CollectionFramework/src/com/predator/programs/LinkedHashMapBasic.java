@@ -13,7 +13,7 @@ public class LinkedHashMapBasic {
 		hm.put(45,"Rohit");
 		hm.put(10,"Messi");
 		hm.put(18,"Virat");
-		hm.put(7,"Dhoni");              //Duplicate key overwrites value
+		hm.put(7,"Dhoni");              //Duplicate key overwrites value 
 		hm.put(11,"Dhoni");             //Duplicate value is stored
 		hm.putIfAbsent(7, "Atharva");
 		hm.put(null,"Tom");             //Null value allowed
@@ -31,3 +31,4 @@ public class LinkedHashMapBasic {
 	}
 
 }
+
