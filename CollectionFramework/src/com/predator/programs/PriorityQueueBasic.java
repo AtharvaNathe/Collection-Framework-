@@ -16,7 +16,7 @@ public class PriorityQueueBasic {
 		num.add(34);
 		num.add(67);     //Duplicate value
 		                 //Null value not allowed
-		
+		 
 		
 		System.out.println(num);
 		
@@ -24,3 +24,4 @@ public class PriorityQueueBasic {
 	
 
 }
+
