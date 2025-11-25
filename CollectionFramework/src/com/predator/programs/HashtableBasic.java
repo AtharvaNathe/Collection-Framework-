@@ -8,7 +8,7 @@ import java.util.Hashtable;
 import java.util.Iterator;
 
 public class HashtableBasic {
-	public static void main(String[] args) {
+	public static void main(String[] args) {  
 		
 		Hashtable<Integer,String> ht=new Hashtable<Integer, String>();
 		ht.put(7,"Atharva");
@@ -45,3 +45,4 @@ public class HashtableBasic {
 	}
 
 }
+
