@@ -5,7 +5,7 @@ package com.predator.programs;
 import java.util.ArrayList;
 import java.util.Iterator;
 
-public class ArrayListBasic {
+public class ArrayListBasic {  
 	public static void main(String[] args) {
 		ArrayList<String> lst=new ArrayList<String>();
 		lst.add("Audi");
@@ -48,3 +48,4 @@ public class ArrayListBasic {
 	}
 
 }
+
