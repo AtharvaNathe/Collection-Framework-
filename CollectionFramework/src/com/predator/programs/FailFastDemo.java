@@ -17,6 +17,7 @@ public class FailFastDemo {
 		
 		
 		
+
 		
 		Iterator<String> iterator=lst.iterator();
 		while(iterator.hasNext()) 
@@ -28,3 +29,4 @@ public class FailFastDemo {
 	}
 
 }
+
