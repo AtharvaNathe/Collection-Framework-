@@ -20,8 +20,7 @@ public class TreeSetBasic {
 		
 		System.out.println(n);
 		
-		
-		
+			
 	}
 
 }
