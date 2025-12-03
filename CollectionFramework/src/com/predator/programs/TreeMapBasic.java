@@ -13,9 +13,7 @@ public class TreeMapBasic {
 		hm.put(45,"Rohit");
 		hm.put(10,"Messi");
 
-				
-		
-		
+				
 		
 		System.out.println(hm);
 		
