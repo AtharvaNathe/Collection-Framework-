@@ -47,7 +47,8 @@ Handle duplicates, nulls, sorting, and iteration
 
 Improve your coding and debugging skills in Java
 
-🧠 Author
+
+### 🧠 Author
  Atharva Nathe
 
 
