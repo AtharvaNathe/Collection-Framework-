@@ -38,7 +38,7 @@ Each class in the Collections Framework is covered with a dedicated `.java` file
 ---
 
 
-🎯 Learning Outcomes
+### 🎯 Learning Outcomes
 Understand the behavior of various collections
 
 Learn when to use which type of collection
